@@ -165,15 +165,15 @@ body {
   justify-content: center;
   text-align: center;
   padding: 20px;
-  border-bottom: 6px solid #262726; /* Reduced bottom border thickness */
+  border-bottom: 6px solid #262726; 
 }
 
 .left, .left1, .left2 {
-  border-right: 3px solid #262726; /* Reduced right border thickness */
+  border-right: 3px solid #262726; 
 }
 
 .right, .right1, .right2 {
-  border-left: 3px solid #262726; /* Reduced left border thickness */
+  border-left: 3px solid #262726;
 }
 
 .left img, .right img, .left1 img, .right1 img, .left2 img, .right2 img {
@@ -275,13 +275,13 @@ footer {
   display: flex;
   list-style: none;
   gap: 20px;
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margin */
+  padding: 0; 
+  margin: 0;
 }
 
 .footer-bottom ul li {
   position: relative;
-  padding-left: 10px; /* Add padding to the left */
+  padding-left: 10px; 
 }
 
 
